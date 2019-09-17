@@ -1,0 +1,32 @@
+body{
+  width: 100%;
+  font-family: 'Work Sans', sans-serif;
+}
+header{
+  height: 60px;
+    }
+header nav {
+  float: right;
+
+  }
+  header ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px;
+
+  }
+#introduction {
+  margin: 0 auto;
+  text-align: center;
+  }
+#introduction span {
+  font-family: 'Indie Flower', cursive;
+}
+#introduction p {
+  margin-left: 500px;
+  margin-right: 500px;
+  font-size: 18px;
+  border: 1px solid red;
+
+
+}
