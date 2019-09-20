@@ -7,6 +7,7 @@ header{
     }
 header nav {
   float: right;
+  padding-right: 20px;
 
   }
   header ul li {
@@ -65,22 +66,67 @@ header nav {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+}
+#portfolio h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 #rogue {
   float: left;
-  width: 30%;
+  width: 33%;
   height: auto;
   text-align: center;
 }
 #jubilee {
   float: left;
-  width: 30%;
+  width: 33%;
   height: auto;
   text-align: center;
   }
 #holstee {
   float: left;
-  width: 30%;
+  width: 33%;
   height: auto;
+  text-align: center;
+}
+#contact {
+  height: 600px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #80d4ff;
+}
+#contact h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#hire {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#social_media {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#social_media ul {
+  list-style-type: none;
+  padding: 5px;
+  margin: 10px;
+}
+#meet {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+footer {
   text-align: center;
 }
