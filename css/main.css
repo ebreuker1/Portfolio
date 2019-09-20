@@ -92,7 +92,7 @@ header nav {
   text-align: center;
 }
 #contact {
-  height: 600px;
+  height: 400px;
   width: 100%;
   display: block;
   margin-left: auto;
@@ -109,6 +109,7 @@ header nav {
   width: 33%;
   height: auto;
   text-align: center;
+
 }
 #social_media {
   float: left;
