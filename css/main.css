@@ -3,10 +3,11 @@ body{
   font-family: 'Work Sans', sans-serif;
 }
 header{
-  height: 60px;
+  height: 200px;
     }
 header nav {
   float: right;
+  padding-right: 20px;
 
   }
   header ul li {
@@ -16,17 +17,116 @@ header nav {
 
   }
 #introduction {
+  height: 400px;
   margin: 0 auto;
   text-align: center;
+  padding-top: 100px;
   }
 #introduction span {
   font-family: 'Indie Flower', cursive;
+  color: red;
 }
 #introduction p {
-  margin-left: 500px;
-  margin-right: 500px;
-  font-size: 18px;
-  border: 1px solid red;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 21px;
+}
+#about {
+  background-color: #80d4ff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+#about h2 {
+  text-align: center;
+  margin: 30px;
+}
+.center {
+  width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid white;
+  }
+#about h3 {
+  text-align: center;
+}
+#about p {
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 21px;
+}
+#about span {
+  font-weight: bold;
 
-
+  }
+#portfolio {
+  height: 600px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+}
+#portfolio h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#rogue {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#jubilee {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+  }
+#holstee {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#contact {
+  height: 600px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #80d4ff;
+}
+#contact h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#hire {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#social_media {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+#social_media ul {
+  list-style-type: none;
+  padding: 5px;
+  margin: 10px;
+}
+#meet {
+  float: left;
+  width: 33%;
+  height: auto;
+  text-align: center;
+}
+footer {
+  text-align: center;
 }
