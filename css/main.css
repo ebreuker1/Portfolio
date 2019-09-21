@@ -3,7 +3,7 @@ body{
   font-family: 'Work Sans', sans-serif;
 }
 header{
-  height: 200px;
+  height: 100px;
     }
 header nav {
   float: right;
@@ -17,7 +17,7 @@ header nav {
 
   }
 #introduction {
-  height: 400px;
+  height: 200px;
   margin: 0 auto;
   text-align: center;
   padding-top: 100px;
